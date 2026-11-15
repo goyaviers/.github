@@ -5,7 +5,10 @@
   <img src="logo-light.svg" alt="Goyaviers logo" width="200" />
 </picture>
 
-*Goyavier* (n.) — French for guava tree.<br/>
+<br/>
+<br/>
+
+*Goyavier* (n.) - French for guava tree.<br/>
 We plant ideas, grow them into projects, and share the fruit.
 
 <pre>
